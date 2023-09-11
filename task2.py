@@ -1,6 +1,6 @@
 number = 12345
-arrStr = []
-result = 0
+# arrStr = []
+# result = 0
 
 
 # for itemStr in str(number):
